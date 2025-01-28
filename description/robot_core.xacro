@@ -98,6 +98,7 @@
 <gazebo refrence="right_wheel">
     <material> Gazebo/Red</material>
     </gazebo> 
+
   <!-- Front wheel joint -->
   <joint name="front_wheel_joint" type="fixed">
     <parent link="chassis"/>
